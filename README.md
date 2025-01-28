@@ -61,19 +61,6 @@ L'implementazione utilizza Python, Pandas e KMeans per il clustering.
 - **Linguaggi**: SQL, PL/SQL, Python.
 - **Strumenti**: Oracle APEX, Oracle SQL Developer, Pandas, Scikit-learn.
 
----
-
-## Utilizzo
-1. Clona il repository:
-   ```bash
-   git clone https://github.com/TUO-USERNAME/AGENZIA-SPAZIALE.git
-   ```
-2. Importa gli script SQL per creare il database.
-3. Esegui le stored procedure e le query per analizzare i dati.
-4. Avvia l'applicazione web tramite Oracle APEX.
-
----
-
 ## Autori
 - **Danilo Cioffi** (N46007095)
 - **Francesco Ardolino** (N46007168)
