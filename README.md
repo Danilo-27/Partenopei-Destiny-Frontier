@@ -1,7 +1,7 @@
 # Progetto di Basi di Dati: Agenzia Spaziale
 
 ## Descrizione del Progetto
-Questo progetto è stato sviluppato come parte del corso di **Basi di Dati** presso l'Università degli Studi di Napoli Federico II (A.A. 2024/2025). L'obiettivo principale è stato la progettazione e implementazione di un database per la gestione delle missioni e delle operazioni di un'agenzia spaziale. Il sistema si concentra su diverse entità chiave, tra cui missioni, sensori, robot, anomalie, interventi e membri dell'equipaggio.
+Questo progetto è stato sviluppato come parte del corso di **Basi di Dati** presso l'Università degli Studi di Napoli Federico II (A.A. 2024/2025). L'obiettivo principale è stato la progettazione e implementazione di un database per la gestione delle missioni e delle operazioni di un'agenzia spaziale.
 
 ---
 
