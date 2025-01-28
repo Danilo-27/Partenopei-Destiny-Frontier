@@ -1,0 +1,9 @@
+--creazione sequenza membri equipaggio
+CREATE SEQUENCE seq_cod_membri
+START WITH 10000 INCREMENT BY 100
+MINVALUE 10000 NOMAXVALUE NOCYCLE;
+
+-- creazione sequenza sensori
+CREATE SEQUENCE seq_cod_sensori
+START WITH 4000 INCREMENT BY 50
+MINVALUE 4000 NOMAXVALUE NOCYCLE;
