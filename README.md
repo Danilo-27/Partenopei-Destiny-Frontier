@@ -61,13 +61,6 @@ L'implementazione utilizza Python, Pandas e KMeans per il clustering.
 - **Linguaggi**: SQL, PL/SQL, Python.
 - **Strumenti**: Oracle APEX, Oracle SQL Developer, Pandas, Scikit-learn.
 
-### Installazione delle Dipendenze
-Per installare le dipendenze richieste, eseguire:
-```bash
-pip install -r requirements.txt
-```
----
-
 ## Autori
 - **Danilo Cioffi** (N46007095)
 - **Francesco Ardolino** (N46007168)
