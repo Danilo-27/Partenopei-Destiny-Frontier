@@ -62,9 +62,9 @@ L'implementazione utilizza Python, Pandas e KMeans per il clustering.
 - **Strumenti**: Oracle APEX, Oracle SQL Developer, Pandas, Scikit-learn.
 
 ## Autori
-- **Danilo Cioffi** (N46007095)
-- **Francesco Ardolino** (N46007168)
-- **Paolo Altucci** (N46007260)
+- **Danilo Cioffi** 
+- **Francesco Ardolino**
+- **Paolo Altucci** 
 
 Università degli Studi di Napoli Federico II  
 Corso di Laurea in Ingegneria Informatica
