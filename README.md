@@ -72,4 +72,4 @@ Corso di Laurea in Ingegneria Informatica
 ---
 
 ## Risorse
-Per ulteriori dettagli, consulta la [documentazione completa](./Basi_di_Dati-4.pdf) inclusa nel repository.
+Per ulteriori dettagli, consulta la [documentazione completa](./PartenopeyDestinyFrontier.pdf) inclusa nel repository.
